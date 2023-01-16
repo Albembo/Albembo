@@ -5,8 +5,6 @@
 - I worked for a year and a half on a product for accommodation that interacted with ![image](https://user-images.githubusercontent.com/81228287/212689190-0c974496-7b1d-43c4-bc44-88052436cb68.png) and more
 - I'm ready to improve our community repos 💪🏻
 
-![image](https://user-images.githubusercontent.com/81228287/212689569-ab4c3d71-b057-48dd-aa71-db3ace810655.png)
-
 
 ## 💻 Favorite tech stack 💻
 
