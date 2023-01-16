@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi, I'm Nicola 👋
 
-<!--
-**Albembo/Albembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a  NodeJS Backend Developer, I'm working mainly on ***Javascript*** but I'm a ***TypeScript*** enthusiast and I'm working to improve my skills on it
+- I'm a cybersec and ML passionate, so ***Python🐍*** basics are on my skil set too
+- I worked for a year and a half on a product for accommodation that interacted with google actions and more
+- I'm ready to improve our community repos 💪🏻
 
-Here are some ideas to get you started:
+## 💻 Favorite tech stack 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NodeJS 💻
+- MongoDB 🗄️
+- Docker 🐋
+- Kubernetes 🐙
+- VS Code 📋
+- GitHub 🤝🏻
+
+
+
+
